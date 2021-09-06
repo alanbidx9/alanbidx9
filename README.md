@@ -1,4 +1,4 @@
-<img align='right' width=200 src="assets/undraw_feeling_proud.svg">
+<!--<img align='right' width=200 src="assets/undraw_feeling_proud.svg"> -->
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">🙂 Hello Everyone!
 
