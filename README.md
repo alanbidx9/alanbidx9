@@ -2,7 +2,8 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">🙂 Hello Everyone!
 
-My name is **jonhnny Bui**. 
+My name is **jonhnny Bui**. <img width="150" height="150" src="https://image.flaticon.com/icons/svg/560/560216.svg">
+
 
 <!-- 
 I am **Web Developer**.
@@ -45,5 +46,6 @@ I am **Web Developer**.
 <a href="mailto:buivantan25082001@gmail.com" target="_blank">
 <img width=45 height=45 src="https://user-images.githubusercontent.com/38081852/86829797-39ae9d80-c06b-11ea-9b5e-c9ade9446951.png">
 </a>
+
 
 </div>
