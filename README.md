@@ -46,6 +46,7 @@ I am **Web Developer**.
 <a href="mailto:buivantan25082001@gmail.com" target="_blank">
 <img width=45 height=45 src="https://user-images.githubusercontent.com/38081852/86829797-39ae9d80-c06b-11ea-9b5e-c9ade9446951.png">
 </a>
-
-<img src="https://camo.githubusercontent.com/18ce5f699367154406817e838d922e74f1d53abea421410b381a64f2c1725af9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966">
+<p align="center">
+   <img width="500px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+</p>
 </div>
