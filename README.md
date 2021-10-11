@@ -1,8 +1,17 @@
 <!--<img align='right' width=200 src="assets/undraw_feeling_proud.svg"> -->
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">🙂 Hello!
 
-My name is **jonhnny Bui**
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I’m Van Tan
+
+- 🎓 I'm studying at UTC2.
+
+- 👀 I’m interested in Frontend Developer
+
+- 🌱 I'm studying, studying and studying right now
+
+- ⚡ My favorite language is javascript
+
 
 
 <!-- 
