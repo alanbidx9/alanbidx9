@@ -4,8 +4,6 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I’m Van Tan
 
-<img width="500px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
-
 - 🎓 I'm studying at UTC2.
 
 - 👀 I’m interested in Frontend Developer
@@ -13,6 +11,8 @@
 - 🌱 I'm studying, studying and studying right now
 
 - ⚡ My favorite language is javascript
+
+<img width="500px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 
 
 <p align="center">
