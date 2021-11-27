@@ -32,8 +32,5 @@
 <img width=45 src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png">
 </a>
    
-<a href="https://twitter.com/buivantann" target="_blank">
-<img width=49 height=49 src="http://icons.iconarchive.com/icons/iynque/ios7-style/1024/Twitter-icon.png">
-</a>
 </p>
 </div>
