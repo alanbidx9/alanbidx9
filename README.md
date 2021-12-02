@@ -6,7 +6,7 @@
 
 - 🎓 I'm studying at UTC2.
 
-- 👀 I’m interested in Frontend Developer
+- 👀 I’m interested in ... Developer
 
 - 🌱 I'm studying, studying and studying right now
 
