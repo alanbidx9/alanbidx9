@@ -2,7 +2,7 @@
 
 
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I’m Tan
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I’m Tan  
 <!--
 - 🎓 I'm studying at UTC2.
 
@@ -13,7 +13,11 @@
 
  - ⚡ My favorite language is ... -->
 
-<img width="700px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+
+<img width="700px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"> 
+
+<!-- <img width="500px" src="https://user-images.githubusercontent.com/67332180/150303878-fc4fcde0-4ef8-4ca1-a29c-3242abfde14c.png">  -->
+
 
 
 <p align="center">
