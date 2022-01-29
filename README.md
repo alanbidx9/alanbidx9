@@ -6,7 +6,7 @@
 
 - 🎓 I'm studying at UTC2.
 
-- 👀 I’m studying and Developer
+- 👀 I’m Studying and Developer
 
 - 🌱 I’m currently learning JS 😎
 
