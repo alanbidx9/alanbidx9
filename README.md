@@ -1,41 +1,83 @@
-<!--<img align='right' width=200 src="assets/undraw_feeling_proud.svg"> -->
+### Hi there, I'm Kalana Wickramaarachchi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+### I'm a Student and Developer!!
+
+- 🌱 I’m currently learning Python 😎
+- 🥅 2022 Goals: Contribute more to Open Source projects
+
+---
+
+  <img align="center" alt="lonewol7f's GitHub Stats" src="https://github-readme-stats.lonewol7f.vercel.app/api?username=lonewol7f&show_icons=true&hide_border=true&theme=dracula"/>&nbsp;<img align="center" alt="lonewol7f's Most Used Languages" src="https://github-readme-stats.lonewol7f.vercel.app/api/top-langs/?username=lonewol7f&layout=compact&theme=dracula&hide_border=true"/>
+
+<br>
+
+#### :mailbox: Connect with me
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Kalana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
+[![Mail Badge](https://img.shields.io/badge/-@kalana____madusanka-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
+[![Mail Badge](https://img.shields.io/badge/-kalana.madusanka-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
+
+#### Top Technologies
+
+![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&labelColor=black&logo=Angular&logoColor=red) ![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) ![Java Badge](https://img.shields.io/badge/-Java-gold?style=for-the-badge&labelColor=black&logo=java&logoColor=gold) ![Spring Badge](https://img.shields.io/badge/-Spring_Boot-green?style=for-the-badge&labelColor=black&logo=springboot&logoColor=green) ![MySql Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
+
+
+#### 🏆 Trophies
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=lonewol7f&title=MultiLanguage,Commit,Followers,Repositories,PullRequest,Issues&column=7&margin-w=15&margin-h=15&theme=dracula"/>
+
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lonewol7f.lonewol7f)
 
 
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I’m Tan  
-<!--
-- 🎓 I'm studying at UTC2.
+---
 
-- 👀 I’m interested in Web Developer
+<details>
 
-- 🌱 I'm studying, studying and studying right now
+  <summary>:zap: Recent GitHub Activity</summary>
+    
+  <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#104](https://github.com/lonewol7f/EnLearn/pull/104) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+2. 🎉 Merged PR [#103](https://github.com/lonewol7f/EnLearn/pull/103) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+3. 🎉 Merged PR [#102](https://github.com/lonewol7f/EnLearn/pull/102) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+4. 🎉 Merged PR [#100](https://github.com/lonewol7f/EnLearn/pull/100) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+5. 🎉 Merged PR [#99](https://github.com/lonewol7f/EnLearn/pull/99) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+  <!--END_SECTION:activity-->
+
+</details>
+
+<!-- ---
 
 
- - ⚡ My favorite language is ... -->
+<details>
 
+  <summary>:pushpin: Pinned Repositories</summary>
 
-<img width="700px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"> 
+  <br>
+  
+  &nbsp;&nbsp;&nbsp;<a href="https://github.com/lonewol7f/FixBid">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=FixBid&theme=dracula&show_owner=true&hide_border=true" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lonewol7f/SoundSpace">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=SoundSpace&theme=dracula&show_owner=true&hide_border=true" />
+  </a>
 
-<!-- <img width="500px" src="https://user-images.githubusercontent.com/67332180/150303878-fc4fcde0-4ef8-4ca1-a29c-3242abfde14c.png">  -->
+  <br>
 
+  &nbsp;&nbsp;&nbsp;<a href="https://github.com/lonewol7f/JavaCRUD">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=JavaCRUD&theme=dracula&show_owner=true&hide_border=true" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lonewol7f/diceGame">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=diceGame&theme=dracula&show_owner=true&hide_border=true" />
+  </a>
 
+</details> -->
 
-<p align="center">
-<!--    <img width="500px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"> -->
-   
-<!--    
-### 🌍 **Contact Me**
-<a href="https://www.facebook.com/profile.php?id=100033670082606" target="_blank">
-<img width=45 src="https://user-images.githubusercontent.com/89144002/130182694-e7b157f0-3e33-441d-9ccd-10f40b74df6e.png">
-</a>  
-   
-<a href="mailto:buivantan25082001@gmail.com" target="_blank">
-<img width=45 height=45 src="https://user-images.githubusercontent.com/38081852/86829797-39ae9d80-c06b-11ea-9b5e-c9ade9446951.png">
-</a>
+<!-- List of web sites -->
 
-<a href="https://www.instagram.com/vntn2508/" target="_blank">
-<img width=45 src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png">
-</a>
-   
-</p>
-</div> -->
+[instagram]: https://www.instagram.com/kalana__madusanka/
+[linkedin]: https://www.linkedin.com/in/kalana-wickramaarachchi/
+[gmail]: mailto:kalana.madusanka26765@gmail.com
