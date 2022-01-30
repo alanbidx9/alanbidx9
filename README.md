@@ -1,3 +1,6 @@
+### Hi there 👋 , I'm [Tan](https://www.github.com/buivantann) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=buivantann" alt="visitor badge"/></p>
+
+
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
 
 
@@ -23,7 +26,8 @@ I'm fun to work with, I always like to learn new things from others as much as h
 </p>
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=baotran1112&show_icons=true&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=buivantann&show_icons=true&hide=[%22issues%22]">
 </p>
 
 
