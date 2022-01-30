@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm [Tan](https://www.github.com/buivantann) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=buivantann" alt="visitor badge"/></p>
+### Hi there 👋 , I'm [Tan](https://www.github.com/buivantann) <p  align="right"><img src="https://komarev.com/ghpvc/?username=baotran1112" alt="baotran1112" /></p>
 
 
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
