@@ -32,7 +32,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <p align=center>  
   <img width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&layout=compact&show_icons=true">
     <a href="https://github.com/onimur/handle-path-oz">
-    <img width="49%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true" />
+    <img width="49%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=buivantann&show_icons=true" />
   </a>
 </p>
 
