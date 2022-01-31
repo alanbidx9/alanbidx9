@@ -1,4 +1,6 @@
-### Hi there 👋 , I'm [Tan](https://www.github.com/buivantann) 
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm [Tan](https://www.github.com/buivantann) 
+
+
 <p align=left>
   <a href="https://github.com/buivantann">
     <img align="left" width="620" alt="header_1" src="https://user-images.githubusercontent.com/98140501/151703492-09ba0d11-4c5f-409b-ab23-c59f9a85cc37.png">
@@ -72,21 +74,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
 ![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
 
-<!-- 
-Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
-Flutter, GetX, BLoC, MobX.
-GitHub, GitLab, Docker, Ansible
-Kotlin, Firebase.
-Ant, Maven, Gradle, 
-VSCode, Eclipse, IntelliJ IDEA.
-HTML, CSS, JavaScript, TypeScript.
-postgresql, pgadmin, mysql, sqlite.
-TDD, BDD, DDD
-clean architecture, hexagonal architecture, onion architecture, mvc, mvvm.
-linux
--->
 </details>
-
 <!-- 
 jquery, sass
 nestjs, nodejs, redis, nginx,
