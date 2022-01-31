@@ -88,8 +88,8 @@ Contribute more to Open Source projects
   <br/>
   <p align=center>  
   <img width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&layout=compact&show_icons=true">
-    <a href="https://github.com/onimur/handle-path-oz">
-    <img width="49%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true" />
+    <a href="https://github.com/buivantann/handle-path-oz">
+    <img width="49%" align="right" alt="Bui Van Tan's github stats" src="https://github-readme-stats.vercel.app/api?username=buivantann&show_icons=true" />
   </a>
 </p>
 
