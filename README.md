@@ -98,3 +98,52 @@ Kubernates, puppet, github actions
 python, c, cpp, arduino
 php, photoshop
 -->
+<details>
+  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <br/>
+
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
+![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
+![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;\
+![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;\
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
+![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
+![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
+![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
+![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
+
+</details>
+
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=buivantann&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=buivantann&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
+
+<hr/>
+
+
+<p align=center>
+  <a href="https://github.com/buivantann">
+    <img src="https://img.shields.io/github/followers/buivantann?style=social">
+  </a>
+  <a href="https://github.com/buivantann?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/baotran1112?&color=blue&logo=github&style=social">
+  </a>
+  <a href="https://github.com/buivantann?tab=repositories">
+    
+    
+    
