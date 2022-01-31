@@ -16,6 +16,14 @@ I'm fun to work with, I always like to learn new things from others as much as h
 - 👀 I’m studying and Developer
 
 - 🌱 I’m currently learning JS 😎
+<!-- 
+- ⚡ My favorite language is ....
+- 🌱 I'm studying, studying and studying right now
+Contribute more to Open Source projects
+- 🌱 I’m currently learning Python 😎
+- 🥅 2022 Goals: Contribute more to Open Source projects
+ -->
+
 <hr>
 
 <h3 align="left">:heart: Let's get connected with me:</h3>
@@ -88,7 +96,6 @@ I'm fun to work with, I always like to learn new things from others as much as h
 </details>
 
 <hr/>
-
 
 
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
