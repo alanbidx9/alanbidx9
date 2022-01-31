@@ -5,7 +5,10 @@
   </a>
  </p>
  
-<p  align="right"><img src="https://komarev.com/ghpvc/?username=buivantann" alt="buivantann" /></p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=buivantann" alt="buivantann" />
+  <img src="https://badges.pufler.dev/visits/baotran1112/baotran1112?color=blue&logo=github" />
+</p>
 
 
 <br/>
@@ -16,7 +19,6 @@
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 </p>
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
-
 
 
 
@@ -39,25 +41,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 <h3 align="left">:heart: Let's get connected with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+<p>
 
-<p align=center>
-  <a href="https://github.com/baotran1112">
-    <img src="https://img.shields.io/github/followers/baotran1112?style=social">
-  </a>
-  <a href="https://github.com/baotran1112?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/baotran1112?&color=blue&logo=github&style=social">
-  </a>
-  <a href="https://github.com/baotran1112?tab=repositories">
-    <img src="https://img.shields.io/badge/Stars-7k-lightgrey?logo=github&style=social">
-  </a>
-  <a href="https://github.com/baotran1112?tab=repositories">
-    <img src="https://img.shields.io/badge/Fork-150-lightgrey?logo=github&style=social">
-  </a>
-</p>
-
-
-
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/buivantann/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
