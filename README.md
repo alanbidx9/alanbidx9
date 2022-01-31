@@ -146,4 +146,16 @@ php, photoshop
   <a href="https://github.com/buivantann?tab=repositories">
     
     
+  <img src="https://img.shields.io/badge/Stars-7k-lightgrey?logo=github&style=social">
+  </a>
+  <a href="https://github.com/buivantann?tab=repositories">
+    <img src="https://img.shields.io/badge/Fork-150-lightgrey?logo=github&style=social">
+  </a>
+</p>
+
+
+
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
+> -- Steve Jobs  
+    
     
