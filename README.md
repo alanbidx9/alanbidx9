@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=buivantann" alt="buivantann" />
   <img src="https://badges.pufler.dev/visits/baotran1112/baotran1112?color=blue&logo=github" />
 </p>
-
-<img width="500px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
-
+<p align="center">
+<img width="550px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+</p>
 <p align=left>
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 </p>
