@@ -5,13 +5,9 @@
  </p>
  
 <p  align="right"><img src="https://komarev.com/ghpvc/?username=buivantann" alt="buivantann" /></p>
-<p align=right>
-  <a href="https://github.com/baotran1112?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/baotran1112?&color=blue&logo=github">
-  </a>
-</p>
-<p align="right">
-<a href="https://github.com/baotran1112"><img src="https://img.shields.io/github/followers/baotran1112?style=social"></a>
+
+
+
 
 ### Hi there 👋 , I'm [Tan](https://www.github.com/buivantann) 
 <p align=left>
@@ -32,7 +28,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <p align=center>  
   <img width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&layout=compact&show_icons=true">
     <a href="https://github.com/onimur/handle-path-oz">
-    <img width="49%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=buivantann&show_icons=true" />
+    <img width="49%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true" />
   </a>
 </p>
 
@@ -40,12 +36,8 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <br/>
 <br/>
 
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs
+
 
 
 
 <h2 align="left">:heart: Let's get connected with me:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
