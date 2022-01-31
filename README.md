@@ -10,6 +10,12 @@
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 </p>
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
+
+- 🎓 I'm studying at UTC2.
+
+- 👀 I’m studying and Developer
+
+- 🌱 I’m currently learning JS 😎
 <hr>
 
 <h3 align="left">:heart: Let's get connected with me:</h3>
