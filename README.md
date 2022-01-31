@@ -10,18 +10,11 @@
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 </p>
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
-
 <hr>
-
-
-
-
-<br/>
 
 <h3 align="left">:heart: Let's get connected with me:</h3>
 
 <p>
-
   <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/buivantann/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100033670082606"><img src="https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,17 +45,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 ![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
 
 </details>
-<!-- 
-jquery, sass
-nestjs, nodejs, redis, nginx,
-rest, graphql, grpc
-apache kafka,
-google cloud plataform, google app engine, aws
-oracle, mariadb, mongodb, 
-Kubernates, puppet, github actions
-python, c, cpp, arduino
-php, photoshop
--->
+
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
@@ -100,6 +83,11 @@ php, photoshop
 
 <hr/>
 
+
+
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
+> -- Steve Jobs  
+    
 <p align=center>
   <a href="https://github.com/buivantann">
     <img src="https://img.shields.io/github/followers/buivantann?style=social">
@@ -116,10 +104,6 @@ php, photoshop
     <img src="https://img.shields.io/badge/Fork-150-lightgrey?logo=github&style=social">
   </a>
 </p>
-
-
-
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs  
+    
     
     
