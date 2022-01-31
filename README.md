@@ -13,7 +13,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 - 🎓 I'm studying at UTC2.
 
-- 👀 I’m studying and Developer
+- 👀 I’m Studying and Developer
 
 - 🌱 I’m currently learning JS 😎
 <!-- 
