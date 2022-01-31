@@ -91,18 +91,16 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <p align=center>
   <a href="https://github.com/buivantann">
     <img src="https://img.shields.io/github/followers/buivantann?style=social">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/buivantann?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/baotran1112?&color=blue&logo=github&style=social">
-  </a>
+    <img src="https://badges.pufler.dev/repos/buivantann?&color=blue&logo=github&style=social">
+  </a>&nbsp;
   <a href="https://github.com/buivantann?tab=repositories">
-    
-    
-  <img src="https://img.shields.io/badge/Stars-7k-lightgrey?logo=github&style=social">
-  </a>
+    <img src="https://img.shields.io/badge/Stars-10k-lightgrey?logo=github&style=social">
+  </a>&nbsp;
   <a href="https://github.com/buivantann?tab=repositories">
-    <img src="https://img.shields.io/badge/Fork-150-lightgrey?logo=github&style=social">
-  </a>
+    <img src="https://img.shields.io/badge/Fork-10k-lightgrey?logo=github&style=social">
+  </a>&nbsp;
 </p>
     
     
