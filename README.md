@@ -16,9 +16,6 @@ I'm fun to work with, I always like to learn new things from others as much as h
 - 👀 I’m Studying and Developer
 
 - 🌱 I’m currently learning JS 😎
-
-- 🥅 2022 Goals: Contribute more to Open Source projects
-
 <!-- 
 - ⚡ My favorite language is ....
 - 🌱 I'm studying, studying and studying right now
