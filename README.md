@@ -89,20 +89,16 @@ Contribute more to Open Source projects
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
-<!--   <p align=center>  
+  <p align=center>  
   <img width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&layout=compact&show_icons=true">
     <a href="https://github.com/buivantann/handle-path-oz">
     <img width="49%" align="right" alt="Bui Van Tan's github stats" src="https://github-readme-stats.vercel.app/api?username=buivantann&show_icons=true" />
   </a>
 </p>
- -->
-  
-  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=buivantann&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/buivantann/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/buivantann/github-stats-transparent/output/generated/languages.svg)
-  
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=buivantann&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ -->
+
 </details>
 
 <hr/>
