@@ -1,4 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm [Tan](https://www.github.com/buivantann)
+
+<!-- Just a programmer trying to get better everyday -->
+
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=buivantann" alt="buivantann" />
   <img src="https://badges.pufler.dev/visits/buivantann/buivantann?color=blue&logo=github" />
