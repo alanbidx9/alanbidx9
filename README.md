@@ -20,7 +20,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 <!-- 
-<!-- - 🌱 I’m currently learning JS 😎 -->
+- 🌱 I’m currently learning JS 😎 
 - ⚡ My favorite language is ....
 - 🌱 I'm studying, studying and studying right now
 Contribute more to Open Source projects
