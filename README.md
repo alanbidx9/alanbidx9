@@ -50,7 +50,7 @@ Contribute more to Open Source projects
 
   <br/>
   <a href="https://github.com/buivantann">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buivantan&theme=blue&show_icons=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buivantann&theme=blue&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&theme=blue&layout=compact" />
 </a>
 
