@@ -32,7 +32,7 @@ Contribute more to Open Source projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
  -->
 
-<hr>
+
 
 <h3 align="left">:heart: Let's get connected with me:</h3>
 
@@ -44,7 +44,20 @@ Contribute more to Open Source projects
 <!--   <a href="https://www.linkedin.com/in/van-tan-b1408921b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
   
 <!--  desc  -->
-<hr/>
+
+
+<h3 align="left">:heart: GitHub Statistics:</h3>
+
+  <br/>
+  <a href="https://github.com/buivantann">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buivantan&theme=blue&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&theme=blue&layout=compact" />
+</a>
+
+
+
+
+
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
@@ -90,23 +103,6 @@ Contribute more to Open Source projects
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
 
 </details>
-
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-  <p align=center>  
-  <img width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&layout=compact&show_icons=true">
-    <a href="https://github.com/buivantann/handle-path-oz">
-    <img width="49%" align="right" alt="Bui Van Tan's github stats" src="https://github-readme-stats.vercel.app/api?username=buivantann&show_icons=true" />
-  </a>
-</p>
-
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=buivantann&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
- -->
-
-</details>
-
-<hr/>
 
 
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
