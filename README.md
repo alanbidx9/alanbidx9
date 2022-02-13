@@ -1,15 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm [Tan](https://www.github.com/buivantann)
 
 <!-- Just a programmer trying to get better everyday -->
-
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=buivantann" alt="buivantann" />
   <img src="https://badges.pufler.dev/visits/buivantann/buivantann?color=blue&logo=github" />
 </p>
-<p align="center">
+<!-- <p align="center">
 <img width="550px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
-</p>
+</p> -->
 <p align=left>
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 </p>
