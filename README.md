@@ -53,7 +53,7 @@ Contribute more to Open Source projects
 </a>
 
 
-
+<!-- 
 
 
 <details>
@@ -101,7 +101,7 @@ Contribute more to Open Source projects
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp; -->
 
 </details>
-
+ -->
 
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
 > -- Steve Jobs  
