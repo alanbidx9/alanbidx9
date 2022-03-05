@@ -32,14 +32,6 @@
 - Natuspa Web (Html, Css, JQuery): https://github.com/buivantann/natuspa-frontend-web -->
 
 
-<h3 align="left">:heart: Let's get connected with me:</h3>
-
-<p align="center">
-  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/buivantann/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100033670082606"><img src="https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/buivantann"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://www.linkedin.com/in/van-tan-b1408921b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
   
 
 
@@ -106,6 +98,16 @@
 
 </details>
  -->
+ 
+ 
+<h3 align="left">:heart: Let's get connected with me:</h3>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/buivantann/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100033670082606"><img src="https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/buivantann"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+<!--   <a href="https://www.linkedin.com/in/van-tan-b1408921b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
 > -- Steve Jobs  
