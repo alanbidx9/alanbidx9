@@ -11,8 +11,8 @@
 <p align=left>
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 </p>
-I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
-
+<!-- I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
+ -->
 - 🎓 I'm studying at UTC2.
 
 - 👀 I’m Studying and Developer
@@ -20,16 +20,16 @@ I'm fun to work with, I always like to learn new things from others as much as h
 - 🌱 I’m currently learning everything 😂
 
 - 🥅 2022 Goals: Contribute more to Open Source projects
-
 <!-- 
-- 🌱 I’m currently learning JS 😎 
-- ⚡ My favorite language is ....
-- 🌱 I'm studying, studying and studying right now
-Contribute more to Open Source projects
-- 🌱 I’m currently learning Python 😎
-- 🥅 2022 Goals: Contribute more to Open Source projects
- -->
+## Project for learning
 
+- Dynonary - Website for Study English (MERN stack): https://github.com/buivantann/dynonary-english
+- Covid-19 Management (ExpressJS MVC, Postgres, Sequelize, Pug): https://github.com/buivantann/covid-project
+- Sales Website TTB Store (MERN Stack): https://github.com/buivantann/ttb-store-project
+- Algorithm Visualize Website (ExpressJS, Algorithm with JS): https://github.com/buivantann/algorithms
+- JavaScript Tips & Tricks: https://github.com/buivantann/javascript-tips
+- VSCode-tis (Tối ưu hoá công việc trên VSCode): https://github.com/buivantann/vscode-tips
+- Natuspa Web (Html, Css, JQuery): https://github.com/buivantann/natuspa-frontend-web -->
 
 
 <h3 align="left">:heart: Let's get connected with me:</h3>
@@ -41,17 +41,21 @@ Contribute more to Open Source projects
   <a href="https://twitter.com/buivantann"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
 <!--   <a href="https://www.linkedin.com/in/van-tan-b1408921b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
   
-<!--  desc  -->
+
 
 
 <h3 align="left">:heart: GitHub Statistics:</h3>
 
-  <br/>
-  <a href="https://github.com/buivantann">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buivantann&theme=blue&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&theme=blue&layout=compact" />
-</a>
 
+  <div align="center">
+</br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=buivantann&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321" alt="Tan's Github Stats">
+</br>
+</br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&theme=tokyonight&langs_count=10&layout=compact&hide=tsql,html" alt="Tan's Github Stats">
+
+</br>
 
 <!-- 
 
