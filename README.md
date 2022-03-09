@@ -109,8 +109,7 @@
   <a href="https://twitter.com/buivantann"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
 <!--   <a href="https://www.linkedin.com/in/van-tan-b1408921b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs  
+
     
 <p align=center>
   <a href="https://github.com/buivantann">
@@ -119,13 +118,9 @@
   <a href="https://github.com/buivantann?tab=repositories">
     <img src="https://badges.pufler.dev/repos/buivantann?&color=blue&logo=github&style=social">
   </a>&nbsp;
-  <a href="https://github.com/buivantann?tab=repositories">
-    <img src="https://img.shields.io/badge/Stars-10k-lightgrey?logo=github&style=social">
-  </a>&nbsp;
-  <a href="https://github.com/buivantann?tab=repositories">
-    <img src="https://img.shields.io/badge/Fork-10k-lightgrey?logo=github&style=social">
-  </a>&nbsp;
+
 </p>
     
-    
+    > Remember why you started
+
     
