@@ -121,6 +121,6 @@
 
 </p>
     
-    > Remember why you started
+    Remember why you started
 
     
