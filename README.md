@@ -1,10 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm [Tan](https://www.github.com/buivantann)
 
-<!-- Just a programmer trying to get better everyday -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=buivantann" alt="buivantann" />
-  <img src="https://badges.pufler.dev/visits/buivantann/buivantann?color=blue&logo=github" />
-</p>
+
 <!-- <p align="center">
 <img width="550px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 </p> -->
@@ -13,6 +9,8 @@
 </p>
 <!-- I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
  -->
+ 
+ 
 - 🎓 I'm studying at UTC2.
 
 - 👀 I’m Studying and Developer
@@ -25,11 +23,8 @@
 
 - Dynonary - Website for Study English (MERN stack): https://github.com/buivantann/dynonary-english
 - Covid-19 Management (ExpressJS MVC, Postgres, Sequelize, Pug): https://github.com/buivantann/covid-project
-- Sales Website TTB Store (MERN Stack): https://github.com/buivantann/ttb-store-project
-- Algorithm Visualize Website (ExpressJS, Algorithm with JS): https://github.com/buivantann/algorithms
-- JavaScript Tips & Tricks: https://github.com/buivantann/javascript-tips
-- VSCode-tis (Tối ưu hoá công việc trên VSCode): https://github.com/buivantann/vscode-tips
-- Natuspa Web (Html, Css, JQuery): https://github.com/buivantann/natuspa-frontend-web -->
+
+-->
 
 
   
@@ -59,13 +54,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/REACTJS-2496ED.svg?&style=flat&logo=react.js&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
-
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;\
+![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MONGODB-339933.svg?&style=flat&logo=mongo.js&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-02569B.svg?&style=flat&logo=sql&logoColor=white)
@@ -98,6 +92,11 @@
   <a href="https://github.com/buivantann?tab=repositories">
     <img src="https://badges.pufler.dev/repos/buivantann?&color=blue&logo=github&style=social">
   </a>&nbsp;
+  
+
+  <img src="https://komarev.com/ghpvc/?username=buivantann" alt="buivantann" />
+  <img src="https://badges.pufler.dev/visits/buivantann/buivantann?color=blue&logo=github" />
+
 
 </p>
     <h3 align="center">:heart: Remember why you started :heart:</h3>
