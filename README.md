@@ -5,7 +5,7 @@
 <img width="550px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 </p> -->
 <p align=left>
-<h4 align="left">👨🏻‍💻 About Me:</h4>
+<h3 align="left">👨🏻‍💻 About Me:</h3>
 </p>
 <!-- I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
  -->
@@ -31,7 +31,7 @@
 
 
 
-<h4 align="left">:heart: GitHub Statistics:</h4>
+<h3 align="left">:heart: GitHub Statistics:</h3>
 
 
   <div align="center">
@@ -48,7 +48,7 @@
 
 
 
-<h4 align="left">:heart: Main tech knowledge:</h4>
+<h3 align="left">:heart: Main tech knowledge:</h3>
   <br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -74,7 +74,7 @@
 
  
  
-<h4 align="left">:heart: Let's get connected with me:</h4>
+<h3 align="left">:heart: Let's get connected with me:</h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
