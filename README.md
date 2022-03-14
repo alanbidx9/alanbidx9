@@ -17,7 +17,8 @@
 
 - 🌱 I’m currently learning everything 😂
 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects. 
+I would love to experience and gain more practical
 <!-- 
 ## Project for learning
 
