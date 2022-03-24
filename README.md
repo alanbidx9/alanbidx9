@@ -7,6 +7,10 @@
 <p align=left>
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 </p>
+
+
+
+
 <!-- I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
  -->
  
@@ -19,6 +23,9 @@
 
 - 🥅 2022 Goals: Contribute more to Open Source projects. 
 I would love to experience and gain more practical
+
+
+
 <!-- 
 ## Project for learning
 
@@ -39,7 +46,6 @@ I would love to experience and gain more practical
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
   <br/>
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -61,7 +67,6 @@ I would love to experience and gain more practical
 
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-
 <br>
 <div align=center>
   <a href="#" title=Bùi Văn Tân">
@@ -74,9 +79,7 @@ I would love to experience and gain more practical
 
 
  
- 
 <h2 align="center">:heart: Let's get connected with me:</h2>
-
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/buivantann/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
