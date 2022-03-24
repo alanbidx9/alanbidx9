@@ -75,7 +75,7 @@ I would love to experience and gain more practical
 
  
  
-<h3 align="left">:heart: Let's get connected with me:</h3>
+<h2 align="center">:heart: Let's get connected with me:</h2>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
@@ -94,7 +94,6 @@ I would love to experience and gain more practical
     <img src="https://badges.pufler.dev/repos/buivantann?&color=blue&logo=github&style=social">
   </a>&nbsp;
   
-
   <img src="https://komarev.com/ghpvc/?username=buivantann" alt="buivantann" />
   <img src="https://badges.pufler.dev/visits/buivantann/buivantann?color=blue&logo=github" />
 
