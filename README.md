@@ -32,24 +32,12 @@ I would love to experience and gain more practical
 
 
 
-<h3 align="left">:heart: GitHub Statistics:</h3>
-
-
-  <div align="center">
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=buivantann&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321" alt="Tan's Github Stats">
-</br>
-</br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&theme=tokyonight&langs_count=10&layout=compact&hide=tsql,html" alt="Tan's Github Stats">
-
-</br>
 
 
 
 
 
-<h3 align="left">:heart: Main tech knowledge:</h3>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
   <br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -72,7 +60,17 @@ I would love to experience and gain more practical
 
 
 
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 
+<br>
+<div align=center>
+  <a href="#" title=Bùi Văn Tân">
+    <img width="360" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="Bùi Văn Tân">
+    <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=buivantann&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
 
  
@@ -102,7 +100,9 @@ I would love to experience and gain more practical
 
 
 </p>
-    <h2 align="center"> Remember why you started </h2>
+
+<h2 align="center">📑 Random DEV Quotes 📑 <h3 align="center"> Remember why you started </h3> </h2>
+
 
 
     
