@@ -43,7 +43,7 @@ I would love to experience and gain more practical
 
 
 
-
+<!-- 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
   <br/>
   
@@ -65,7 +65,7 @@ I would love to experience and gain more practical
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nest.js&logoColor=white)&nbsp;
 
-
+ -->
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
