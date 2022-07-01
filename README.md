@@ -15,7 +15,7 @@
  -->
  
  
-- 🎓 I'm studying at UTC2.
+- 🎓 I'm Studying at UTC2.
 
 - 👀 I’m Studying and Developer
 
