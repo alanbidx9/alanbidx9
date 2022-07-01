@@ -71,10 +71,10 @@ I would love to experience and gain more practical
 <br>
 <div align=center>
   <a href="#" title=Bùi Văn Tân">
-    <img width="314" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buivantann&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="314" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbv2&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Bùi Văn Tân">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=buivantann&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tanbv2&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -91,15 +91,21 @@ I would love to experience and gain more practical
 <!-- 
     
 <p align=center>
-  <a href="https://github.com/buivantann">
-    <img src="https://img.shields.io/github/followers/buivantann?style=social">
+  <a href="https://github.com/tanbv2">
+    <img src="https://img.shields.io/github/followers/tanbv2?style=social">
   </a>&nbsp;
-  <a href="https://github.com/buivantann?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/buivantann?&color=blue&logo=github&style=social">
+  <a href="https://github.com/tanbv2
+?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/tanbv2
+?&color=blue&logo=github&style=social">
   </a>&nbsp;
   
-  <img src="https://komarev.com/ghpvc/?username=buivantann" alt="buivantann" />
-  <img src="https://badges.pufler.dev/visits/buivantann/buivantann?color=blue&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=tanbv2
+" alt="tanbv2
+" />
+  <img src="https://badges.pufler.dev/visits/tanbv2
+/tanbv2
+?color=blue&logo=github" />
 
 
 </p>
