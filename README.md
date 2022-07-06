@@ -1,19 +1,8 @@
 ### Hi there ✌️, I'm [Tan](https://www.github.com/buivantann)
 
-
-<!-- <p align="center">
-<img width="550px" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
-</p> -->
 <p align=left>
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 </p>
-
-
-
-
-<!-- I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
- -->
- 
  
 - 🎓 I'm Studying at UTC2.
 
@@ -21,23 +10,13 @@
 
 - 🌱 I’m currently learning everything 😂
 
-- 🥅 2022 Goals: Contribute more to Open Source projects. 
-I would love to experience and gain more practical
-
 
 
 <!-- 
 ## Project for learning
 
-- Dynonary - Website for Study English (MERN stack): https://github.com/buivantann/dynonary-english
-- Covid-19 Management (ExpressJS MVC, Postgres, Sequelize, Pug): https://github.com/buivantann/covid-project
 
 -->
-
-
-  
-
-
 
 
 
@@ -86,33 +65,6 @@ I would love to experience and gain more practical
   <a href="https://www.instagram.com/buivantann/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100033670082606"><img src="https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/buivantann"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://www.linkedin.com/in/van-tan-b1408921b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-
-<!-- 
-    
-<p align=center>
-  <a href="https://github.com/tanbv2">
-    <img src="https://img.shields.io/github/followers/tanbv2?style=social">
-  </a>&nbsp;
-  <a href="https://github.com/tanbv2
-?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/tanbv2
-?&color=blue&logo=github&style=social">
-  </a>&nbsp;
-  
-  <img src="https://komarev.com/ghpvc/?username=tanbv2
-" alt="tanbv2
-" />
-  <img src="https://badges.pufler.dev/visits/tanbv2
-/tanbv2
-?color=blue&logo=github" />
-
-
-</p>
-
-<h2 align="center">📑 Random DEV Quotes 📑 <h3 align="center"> Remember why you started </h3> </h2>
-
-
-
-    
+<!--   
+<a href="https://www.linkedin.com/in/van-tan-b1408921b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
  -->
