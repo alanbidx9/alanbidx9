@@ -1,12 +1,10 @@
 ### Hi there ✌️, I'm [Tan](https://www.github.com/buivantann)
 
-<h2 align="center">:heart: Let's get connected with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/van-tan-b1408921b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/vantandev"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-
-
+  <a href="https://www.instagram.com/vantandev/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100033670082606"><img src="https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
 
 
 
