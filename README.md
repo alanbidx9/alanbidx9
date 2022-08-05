@@ -33,7 +33,7 @@
 
  -->
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">📊 My Github Stats</h2>
 <br>
 <div align=center>
   <a href="#" title=Bùi Văn Tân">
@@ -43,6 +43,19 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=bvtandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/bvtandev/github-readme-activity-graph"><img alt="bvtandev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bvtandev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 
 
  
