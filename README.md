@@ -42,6 +42,6 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <div align="right">
 
-** Last Edited on: 10/09/2022 **
+**Last Edited on: 10/09/2022**
 
 </div>
