@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Van Tan](https://www.github.com/bvtandev)
+## Hi there 👋, I'm [Van Tan](https://www.github.com/vantandev)
 ## I'm a Final Year Software Engineering Student
 - 🌱 I’m currently Working on web development 
 - 🤓 Always learning new things
