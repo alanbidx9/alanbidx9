@@ -17,15 +17,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  My Skills
+
 ### Languages:
-  <img src="https://skillicons.dev/icons?i=html,css,scss,cs,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,cs" />
 ### Technologies:
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,react,redux,firebase,mui" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,react,redux" />
+   <img src="https://skillicons.dev/icons?i=firebase,mui,mongodb,mysql,postgresql,docker" />
 ### Software & Tools:
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,docker," />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,figma" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 
 <div align="center">
