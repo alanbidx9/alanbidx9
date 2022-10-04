@@ -3,6 +3,7 @@
 - 🌱 I’m currently Working on web development 
 - 🤓 Always learning new things
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## My Github Stats
 <table style="width:100%">
   <tr>
@@ -20,23 +21,14 @@
 
 ### Languages:
   <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,cs" />
+  
 ### Technologies:
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,react,redux" />
    <img src="https://skillicons.dev/icons?i=firebase,mui,mongodb,mysql,postgresql,docker" />
+   
 ### Software & Tools:
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<div align="center">
-
-When you focus on problems you'll have more problems. When you focus on possibilities you'll have more opportunities
-
-</div>
-
-<div align="right">
-
-Lewis Howes
-
-</div>
