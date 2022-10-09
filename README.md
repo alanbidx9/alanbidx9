@@ -24,7 +24,7 @@
   
 ### Technologies:
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,react,redux" />
-   <img src="https://skillicons.dev/icons?i=firebase,mui,mongodb,mysql,postgresql,docker" />
+   <img src="https://skillicons.dev/icons?i=firebase,mui,mongodb,postgresql,docker" />
    
 ### Software & Tools:
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio" />
