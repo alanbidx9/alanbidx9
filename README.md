@@ -2,7 +2,6 @@
 ## I'm a Final Year Software Engineering Student
 - 🌱 I’m currently Working on web development 
 - 🤓 Always learning new things
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## My Github Stats
 <table style="width:100%">
@@ -14,7 +13,6 @@
 
   </tr>
 </table>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  My Skills
 
@@ -28,6 +26,5 @@
 ### Software & Tools:
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
