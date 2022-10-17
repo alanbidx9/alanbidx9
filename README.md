@@ -17,10 +17,10 @@
 ##  My Skills
 
 ### Languages:
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts" />
   
 ### Technologies:
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,react,redux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,redux" />
    <img src="https://skillicons.dev/icons?i=firebase,mui,mongodb,postgresql,docker" />
    
 ### Software & Tools:
