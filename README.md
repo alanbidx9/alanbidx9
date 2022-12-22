@@ -1,3 +1,3 @@
-_**The journey of a thousand miles begins with one step.**_
+_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
 
-Lao Tzu
+Veronica A. Shoffstall
