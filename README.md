@@ -1,3 +1,3 @@
-_**Find a purpose in life so big it will challenge every capacity to be at your best.**_
+_**Once your excuses are gone, you will simply have to settle for being awesome!**_
 
-David O. McKay
+Lorii Myers
