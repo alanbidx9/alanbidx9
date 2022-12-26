@@ -1,3 +1,4 @@
-_**Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.**_
+_**Ý nghĩa là thứ bạn xây dựng trong cuộc sống của mình. Bạn xây dựng nó từ quá khứ của chính mình, từ tình cảm và lòng trung thành của bạn, từ kinh nghiệm của loài người khi nó được truyền lại cho bạn ... Bạn là người duy nhất có thể kết hợp chúng lại với nhau thành khuôn mẫu độc đáo sẽ là của bạn. cuộc sống .**_
 
-Voltaire
+John Gardner
+
