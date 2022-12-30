@@ -1,3 +1,3 @@
-_**Stay hungry, Stay foolish.**_
+_**If I work as hard as I can, I wonder how much I can do in a day?**_
 
-Steve Jobs
+Ezra Taft Benson
