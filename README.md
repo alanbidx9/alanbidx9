@@ -1,3 +1,3 @@
-_**If I work as hard as I can, I wonder how much I can do in a day?**_
+_**Ideas don't get smaller when they're shared, they get bigger.**_
 
-Ezra Taft Benson
+Seth Godin
