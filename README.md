@@ -1,3 +1,3 @@
-_**The beginning of freedom is the realization that you are not the possessing entity the thinker.**_
+_**If I must be a slave to habit let me be a slave to good habits.**_
 
-Eckhart Tolle
+Og Mandino
