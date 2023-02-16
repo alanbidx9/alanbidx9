@@ -1,3 +1,3 @@
-_**Think ahead. Don't let day-to-day operations drive out planning.**_
+_**When the guys out there are partying, I give up my dreams for my dreams .**_
 
-Donald Rumsfeld
+Jungkook - BTS
