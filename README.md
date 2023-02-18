@@ -1,3 +1,3 @@
-_**When the guys out there are partying, I give up my dreams for my dreams .**_
+_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
 
-Jungkook - BTS
+Sidney Greenberg
