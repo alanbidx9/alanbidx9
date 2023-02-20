@@ -1,3 +1,3 @@
-_**The Bigger the Why the Easier the How.**_
+_**Life doesn't require that we be the best, only that we try our best.**_
 
-T. Harv Eker
+H. Jackson Brown Jr
