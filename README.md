@@ -1,3 +1,3 @@
-_**Don't be tempted to break momentum—work through it.**_
+_**Innovation is the only way to win.**_
 
-Lorii Myers
+STEVE JOBS
