@@ -1,3 +1,3 @@
-_**If you WIN the morning, you WIN the day.**_
+_**The only way to be truly satisfied is to do what you believe is great work.**_
 
-Tim Ferriss
+Steve Jobs
