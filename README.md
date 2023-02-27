@@ -1,3 +1,3 @@
-_**The only way to be truly satisfied is to do what you believe is great work.**_
+_**Everything is based on a simple rule: Quality is the best business plan, period.**_
 
 Steve Jobs
