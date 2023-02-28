@@ -1,3 +1,3 @@
-_**Everything is based on a simple rule: Quality is the best business plan, period.**_
+_**If you live each day as it was your last, someday you’ll most certainly be right.**_
 
 Steve Jobs
