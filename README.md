@@ -1,3 +1,3 @@
-_**If you live each day as it was your last, someday you’ll most certainly be right.**_
+_**You have to trust in something–your gut, destiny, life, karma, whatever.**_
 
 Steve Jobs
