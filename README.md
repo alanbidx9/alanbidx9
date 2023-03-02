@@ -1,3 +1,3 @@
-_**You have to trust in something–your gut, destiny, life, karma, whatever.**_
+_**Your time is limited, so don’t waste it living someone else’s life.**_
 
 Steve Jobs
