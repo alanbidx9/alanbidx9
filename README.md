@@ -1,3 +1,3 @@
-_**Your time is limited, so don’t waste it living someone else’s life.**_
+_**It takes a lot of hard work to make something simple.**_
 
 Steve Jobs
