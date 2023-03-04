@@ -1,3 +1,3 @@
-_**It takes a lot of hard work to make something simple.**_
+_**If you WIN the morning, you WIN the day.**_
 
-Steve Jobs
+Tim Ferriss
