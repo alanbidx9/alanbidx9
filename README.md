@@ -1,3 +1,3 @@
-_**If you WIN the morning, you WIN the day.**_
+_**To go forward you have to leave something behind.**_
 
-Tim Ferriss
+Steve Jobs
