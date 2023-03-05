@@ -1,3 +1,3 @@
-_**To go forward you have to leave something behind.**_
+“Inaction will cause a man to sink into the slough of despond and vanish without a trace.”
 
-Steve Jobs
+~ Farley Mowat
