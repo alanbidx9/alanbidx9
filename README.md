@@ -1,3 +1,3 @@
-“Inaction will cause a man to sink into the slough of despond and vanish without a trace.”
+“In character, in manner, in style, in all things, the supreme excellence is simplicity.”
 
-~ Farley Mowat
+~ Henry Wadsworth Longfellow
