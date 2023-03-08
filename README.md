@@ -1,3 +1,3 @@
-“In character, in manner, in style, in all things, the supreme excellence is simplicity.”
+“Hỡi thanh niên, hãy bán cho tôi một năm tuổi trẻ, tôi sẽ trả cho bạn một tỉ đô xanh.”
 
-~ Henry Wadsworth Longfellow
+~ Lý Quang Diệu
