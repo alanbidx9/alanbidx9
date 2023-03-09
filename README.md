@@ -1,3 +1,3 @@
-“Hỡi thanh niên, hãy bán cho tôi một năm tuổi trẻ, tôi sẽ trả cho bạn một tỉ đô xanh.”
+“When I let go of what I am, I become what I might be.”
 
-~ Lý Quang Diệu
+~ Lao Tzu
