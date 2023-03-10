@@ -1,3 +1,3 @@
-“stay hungry stay foolish.”
+“ 'If you WIN the morning, you WIN the day.”
 
-~ Steve Jobs
+~ Tim Ferriss
