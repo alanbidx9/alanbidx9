@@ -1,3 +1,3 @@
-“ 'If you WIN the morning, you WIN the day.”
+“We don’t have to be smarter than the rest. We have to be more disciplined than the rest.”
 
-~ Tim Ferriss
+— Warren Buffett
