@@ -1,3 +1,3 @@
-“Discipline will take you places Motivation can't.”
+“If you don’t find a way to make money while you sleep, you will work until you die.”
 
-— Null
+— Warren Buffett
