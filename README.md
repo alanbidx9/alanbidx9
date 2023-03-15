@@ -1,3 +1,3 @@
-“If you don’t find a way to make money while you sleep, you will work until you die.”
+ “The difference between successful people and really successful people is that really successful people say no to almost everything.”
 
 — Warren Buffett
