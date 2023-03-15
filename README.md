@@ -1,3 +1,3 @@
- “The difference between successful people and really successful people is that really successful people say no to almost everything.”
+“If you cannot control your emotions, you cannot control your money.”
 
 — Warren Buffett
