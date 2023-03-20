@@ -1,3 +1,3 @@
-“Risk comes from not knowing what you’re doing.”
+ “Honesty is a very expensive gift. Don't expect it from cheap people.”
 
 — Warren Buffett
