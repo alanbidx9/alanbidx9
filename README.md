@@ -1,3 +1,3 @@
- “Honesty is a very expensive gift. Don't expect it from cheap people.”
+“If you don't build your dream someone else will hire you to help build theirs.” 
 
-— Warren Buffett
+— Tony A. Gaskins Jr.
