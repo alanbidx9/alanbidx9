@@ -1,3 +1,3 @@
-“If you don't build your dream someone else will hire you to help build theirs.” 
+“Risk comes from not knowing what you’re doing.”
 
-— Tony A. Gaskins Jr.
+— Warren Buffett
