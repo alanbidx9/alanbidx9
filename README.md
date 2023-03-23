@@ -1,3 +1,3 @@
- “Someone's sitting in the shade today because someone planted a tree a long time ago.”
+“Stay hungry. Stay foolish.”
 
-— Warren Buffett
+— Steve Jobs
