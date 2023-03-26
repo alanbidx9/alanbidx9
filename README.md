@@ -1,2 +1,3 @@
-“Someone's sitting in the shade today because someone planted a tree a long time ago.”
-— Warren Buffett
+“The people who are crazy enough to think they can change the world are the ones who do.”
+
+— Steve Jobs
