@@ -1,3 +1,3 @@
-_**Stay hungry. Stay foolish.**_
+_**Focusing is about saying No.**_
 
 Steve Jobs
