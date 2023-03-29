@@ -1,3 +1,3 @@
-_**Focusing is about saying No.**_
+_**Good judgment is usually the result of experience. Experience is usually the result of bad judgment.**_
 
-Steve Jobs
+Anthony Robbins.
