@@ -1,3 +1,3 @@
-_**Good judgment is usually the result of experience. Experience is usually the result of bad judgment.**_
+_**Innovation is the only way to win.**_
 
-Anthony Robbins.
+Steve Jobs
