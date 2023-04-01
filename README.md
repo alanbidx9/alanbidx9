@@ -1,3 +1,4 @@
-_**You’ve got to start with the customer experience and work backwards to the technology. You can’t start with the technology and try to figure out where you’re going to sell it.**_
+_**The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle..**_
 
 Steve Jobs
+
