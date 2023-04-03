@@ -1,4 +1,4 @@
-_**Stay hungry. Stay foolish.**_
+_**“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.**_
 
-Steve Jobs
+Abraham Lincoln.
 
