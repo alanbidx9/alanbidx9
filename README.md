@@ -1,4 +1,4 @@
-_**"A feeble body weakens the mind.**_
+_**Whatever you are, be a good one.**_
 
-Jean Jacques Rousseau.
+Abraham Lincoln.
 
