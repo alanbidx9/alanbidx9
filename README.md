@@ -1,4 +1,4 @@
-_**Whatever you are, be a good one.**_
+_**Things don’t have to change the world to be important.**_
 
-Abraham Lincoln.
+Steve Jobs
 
