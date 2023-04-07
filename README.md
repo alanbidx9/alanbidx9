@@ -1,4 +1,4 @@
-_**Things don’t have to change the world to be important.**_
+_**Stay hungry. Stay foolish.**_
 
 Steve Jobs
 
