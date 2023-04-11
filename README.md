@@ -1,4 +1,3 @@
-_**We don't have to be smarter than the rest.
-We have to be more disciplined than the rest.**_
+_**You are the average of the five people you spend the most time with.**_
 
-warren buffett
+Jim Rohn
