@@ -1,3 +1,3 @@
-_**You are the average of the five people you spend the most time with.**_
+_**Formal education will make you a living; self-education will make you a fortune.**_
 
 Jim Rohn
