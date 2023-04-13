@@ -1,3 +1,3 @@
-_**Formal education will make you a living; self-education will make you a fortune.**_
+_**Don't wish it were easier. Wish you were better.**_
 
 Jim Rohn
