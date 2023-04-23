@@ -1,3 +1,3 @@
-_**Successful people have libraries. The rest have big screen TVs.**_
+_**Success is nothing more than a few simple disciplines, practiced every day.**_
 
 Jim Rohn
