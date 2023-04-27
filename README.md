@@ -1,3 +1,3 @@
-_**If you don’t design your own life plan, chances are you’ll fall into someone else’s plan. And guess what they have planed for you? Not much.**_
+_**Don't let your learning lead to knowledge. Let your learning lead to action.**_
 
 Jim Rohn
