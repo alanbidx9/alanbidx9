@@ -1,3 +1,3 @@
-_**Work harder on yourself than you do on your job.**_
+_**Miss a meal if you have to, but don't miss a book.**_
 
 Jim Rohn
