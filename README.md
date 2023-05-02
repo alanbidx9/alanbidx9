@@ -1,3 +1,3 @@
-_**When you know what you want, and you want it bad enough, you'll find a way to get it.**_
+_**If you are not willing to risk the unusual, you will have to settle for the ordinary.**_
 
 Jim Rohn
