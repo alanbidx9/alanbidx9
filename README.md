@@ -1,3 +1,3 @@
-_**If you are not willing to risk the unusual, you will have to settle for the ordinary.**_
+_**Nghèo khó hay giàu sang đều là sản phẩm của tư duy 🧠.**_
 
-Jim Rohn
+❤️ Napoleon Hill ❤️
