@@ -1,3 +1,3 @@
-_**Hang Out with People Who are Better than You.**_
+_**Risk comes from not knowing what you're doing.**_
 
 Warren Buffett
