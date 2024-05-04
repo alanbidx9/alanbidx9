@@ -1,3 +1,3 @@
-_**Risk comes from not knowing what you're doing.**_
+_**Stay hungry. Stay foolish.**_
 
-Warren Buffett
+Steve Jobs
