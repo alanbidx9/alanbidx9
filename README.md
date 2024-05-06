@@ -1,3 +1,3 @@
-_**Wealth is not his that has it, but his that enjoys it..**_
+_**Poverty or wealth are both products of thinking.**_
 
-Benjamin Franklin
+Napoleon Hill 
