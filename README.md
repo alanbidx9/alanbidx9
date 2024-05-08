@@ -1,3 +1,3 @@
-_**So many books, so little time.**_
+_**Be the change that you wish to see in the world.**_
 
-Frank Zappa 
+Mahatma Gandhi
