@@ -1,3 +1,3 @@
-_**Be the change that you wish to see in the world.**_
+_**If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.**_
 
-Mahatma Gandhi
+J.K. Rowling
