@@ -1,3 +1,3 @@
-_**Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.**_
+_**A room without books is like a body without a soul.**_
 
- Albert Einstein
+Marcus Tullius Cicero
