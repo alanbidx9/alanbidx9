@@ -1,3 +1,3 @@
-_**A room without books is like a body without a soul.**_
+_**If you tell the truth, you don't have to remember anything.**_
 
-Marcus Tullius Cicero
+Mark Twain
