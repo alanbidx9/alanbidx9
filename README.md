@@ -1,3 +1,3 @@
-_**If you tell the truth, you don't have to remember anything.**_
+_**It does not do to dwell on dreams and forget to live.**_
 
-Mark Twain
+J.K. Rowling
