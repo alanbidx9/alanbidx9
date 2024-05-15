@@ -1,3 +1,3 @@
-_**It does not do to dwell on dreams and forget to live.**_
+_**You only live once, but if you do it right, once is enough.**_
 
-J.K. Rowling
+Mae West
