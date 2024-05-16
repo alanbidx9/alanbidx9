@@ -1,3 +1,3 @@
-_**You only live once, but if you do it right, once is enough.**_
+_**We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.**_
 
-Mae West
+Jim Rohn
