@@ -1,3 +1,3 @@
-_**You are the average of the five people you spend the most time with.**_
+_**A fool with a plan can beat a genius without a plan.**_
 
-Jim Rohn
+T. Boone Pickens
