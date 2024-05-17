@@ -1,3 +1,3 @@
-_**We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.**_
+_**You are the average of the five people you spend the most time with.**_
 
 Jim Rohn
