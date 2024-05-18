@@ -1,3 +1,3 @@
-_**A fool with a plan can beat a genius without a plan.**_
+_**Formal education will make you a living; self-education will make you a fortune.**_
 
-T. Boone Pickens
+Jim Rohn
