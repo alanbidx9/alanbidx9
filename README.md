@@ -1,3 +1,3 @@
-_**Don't wish it were easier. Wish you were better.**_
+_**Once we accept our limits, we go beyond them.**_
 
- Jim Rohn
+Albert Einstein
