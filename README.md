@@ -1,3 +1,3 @@
-_**Once we accept our limits, we go beyond them.**_
+_**We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.**_
 
-Albert Einstein
+Jim Rohn
