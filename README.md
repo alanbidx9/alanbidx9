@@ -1,3 +1,3 @@
-_**Motivation is what gets you started. Habit is what keeps you going.**_
+_**Discipline is the bridge between goals and accomplishment.**_
 
 Jim Rohn
