@@ -1,3 +1,3 @@
-_**Discipline is the bridge between goals and accomplishment.**_
+_**We must all suffer one of two things: the pain of discipline or the pain of regret or disappointment.**_
 
 Jim Rohn
