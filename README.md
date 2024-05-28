@@ -1,3 +1,3 @@
-_**Success is nothing more than a few simple disciplines, practiced every day.**_
+_**Learn how to be happy with what you have while you pursue all that you want.**_
 
 Jim Rohn
