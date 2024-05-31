@@ -1,4 +1,4 @@
-_**Excuses are the nails used to build a house of failure.**_
+_**Either you run the day or the day runs you...**_
 
 Jim Rohn
 
