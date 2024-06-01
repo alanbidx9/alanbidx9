@@ -1,4 +1,4 @@
-_**Either you run the day or the day runs you...**_
+_**Success is doing ordinary things extraordinarily well.**_
 
 Jim Rohn
 
