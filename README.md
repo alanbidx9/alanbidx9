@@ -1,4 +1,4 @@
-_**Happiness is not by chance, but by choice.**_
+_**Success is doing ordinary things extraordinarily well.**_
 
 Jim Rohn
 
