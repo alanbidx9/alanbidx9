@@ -1,4 +1,4 @@
-_**Success is doing ordinary things extraordinarily well.**_
+_**nice.**_
 
 Jim Rohn
 
