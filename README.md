@@ -1,4 +1,4 @@
-_**Don't let your learning lead to knowledge. Let your learning lead to action.**_
+_**Formal education will make you a living; self-education will make you a fortune.**_
 
 Jim Rohn
 
