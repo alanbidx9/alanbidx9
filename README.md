@@ -1,4 +1,4 @@
-_**Formal education will make you a living; self-education will make you a fortune.**_
+_**nice.**_
 
 Jim Rohn
 
