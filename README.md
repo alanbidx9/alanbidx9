@@ -1,4 +1,4 @@
-_**Formal education will make you a living; self-education will make you a fortune.**_
+_**If you really want to do something, you'll find a way. If you don't, you'll find an excuse.**_
 
 Jim Rohn
 
