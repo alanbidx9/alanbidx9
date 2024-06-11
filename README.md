@@ -1,4 +1,4 @@
-_**If you really want to do something, you'll find a way. If you don't, you'll find an excuse.**_
+_**Discipline is the bridge between goals and accomplishment.**_
 
 Jim Rohn
 
