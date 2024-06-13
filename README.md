@@ -1,4 +1,4 @@
-_**Discipline is the bridge between goals and accomplishment.**_
+_**If you don't like how things are, change it. You are not a tree.**_
 
 Jim Rohn
 
