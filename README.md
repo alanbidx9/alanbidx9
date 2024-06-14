@@ -1,4 +1,4 @@
-_**If you don't like how things are, change it. You are not a tree.**_
+_**Work hard at your job and you can make a living. Work hard on yourself and you can make a fortune.**_
 
 Jim Rohn
 
