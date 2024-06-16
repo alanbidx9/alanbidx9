@@ -1,4 +1,4 @@
-_**Success is something you attract by the person you become.**_
+_**You don't get paid for the hour. You get paid for the value you bring to the hour.**_
 
 Jim Rohn
 
