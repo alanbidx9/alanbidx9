@@ -1,4 +1,4 @@
-_**You don't get paid for the hour. You get paid for the value you bring to the hour.**_
+_**Work hard at your job and you can make a living. Work hard on yourself and you can make a fortune.**_
 
 Jim Rohn
 
