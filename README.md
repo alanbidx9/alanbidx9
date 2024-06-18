@@ -1,4 +1,4 @@
-_**Work hard at your job and you can make a living. Work hard on yourself and you can make a fortune.**_
+_**Leadership is the challenge to be something more than average.**_
 
 Jim Rohn
 
