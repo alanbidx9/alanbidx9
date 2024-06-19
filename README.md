@@ -1,4 +1,4 @@
-_**Leadership is the challenge to be something more than average.**_
+_**You don't get paid for the hour. You get paid for the value you bring to the hour.**_
 
 Jim Rohn
 
