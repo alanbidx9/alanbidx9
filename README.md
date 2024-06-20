@@ -1,4 +1,4 @@
-_**You don't get paid for the hour. You get paid for the value you bring to the hour.**_
+_**How long should you try? Until.**_
 
 Jim Rohn
 
