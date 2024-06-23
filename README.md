@@ -1,4 +1,4 @@
-_**How long should you try? Until.**_
+_**Don't wish for less problems; wish for more skills.**_
 
 Jim Rohn
 
