@@ -1,4 +1,4 @@
-_**Don't wish for less problems; wish for more skills.**_
+_**Your life does not get better by chance, it gets better by change.**_
 
 Jim Rohn
 
