@@ -1,4 +1,4 @@
-_**Your life does not get better by chance, it gets better by change.**_
+_**Work hard at your job and you can make a living. Work hard on yourself and you can make a fortune.**_
 
 Jim Rohn
 
