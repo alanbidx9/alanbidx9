@@ -1,4 +1,4 @@
-_**If you don't like how things are, change it. You are not a tree.**_
+_**For things to change, you have to change.**_
 
 Jim Rohn
 
