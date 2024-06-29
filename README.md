@@ -1,6 +1,6 @@
-_**For things to change, you have to change.**_
+_**stay hungry stay foolish.**_
 
-Jim Rohn
+Steve Jobs
 
 
 
