@@ -1,6 +1,6 @@
-_**stay hungry stay foolish.**_
+_**Work hard at your job and you can make a living. Work hard on yourself and you can make a fortune.**_
 
-Steve Jobs
+Jim Rohn
 
 
 
