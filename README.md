@@ -1,4 +1,4 @@
-_**Work hard at your job and you can make a living. Work hard on yourself and you can make a fortune.**_
+_**What is powerful is when what you say is just the tip of the iceberg of what you know.**_
 
 Jim Rohn
 
