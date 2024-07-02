@@ -1,4 +1,4 @@
-_**What is powerful is when what you say is just the tip of the iceberg of what you know.**_
+_**For every promise, there is a price to pay... If the promise is clear, the price is easy...**_
 
 Jim Rohn
 
