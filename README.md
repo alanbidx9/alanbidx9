@@ -1,4 +1,4 @@
-_**For every promise, there is a price to pay... If the promise is clear, the price is easy...**_
+_**easy**_
 
 Jim Rohn
 
