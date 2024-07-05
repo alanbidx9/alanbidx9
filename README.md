@@ -1,4 +1,4 @@
-_**easy**_
+_**Time is more value than money. You can get more money, but you cannot get more time.**_
 
 Jim Rohn
 
