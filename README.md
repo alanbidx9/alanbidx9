@@ -1,4 +1,4 @@
-_**Time is more value than money. You can get more money, but you cannot get more time.**_
+_**Those who will not read are no better off than those who cannot read.**_
 
 Jim Rohn
 
