@@ -1,4 +1,4 @@
-_**Those who will not read are no better off than those who cannot read.**_
+_**Success is something you attract by the person you become .**_
 
 Jim Rohn
 
