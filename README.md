@@ -1,4 +1,4 @@
-_**Success is something you attract by the person you become .**_
+_**If you don't like how things are, change it. You are not a tree.**_
 
 Jim Rohn
 
