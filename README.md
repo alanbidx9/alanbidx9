@@ -1,4 +1,4 @@
-_**How long should you try? Until.**_
+_**Your life does not get better by chance, it gets better by change.**_
 
 Jim Rohn
 
