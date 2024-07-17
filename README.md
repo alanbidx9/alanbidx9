@@ -1,4 +1,4 @@
-_**Your life does not get better by chance, it gets better by change.**_
+_**Learn to work harder on yourself than you do on your job. If you work hard on your job you can make a living, but if you work hard on yourself you'll make a fortune.**_
 
 Jim Rohn
 
