@@ -1,4 +1,4 @@
-_**Learn to work harder on yourself than you do on your job. If you work hard on your job you can make a living, but if you work hard on yourself you'll make a fortune.**_
+_**Some people claim that it is okay to read trashy novels because sometimes you can find something valuable in them. You can also find a crust of bread in a garbage can, if you search long enough, but there is a better way.**_
 
 Jim Rohn
 
