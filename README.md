@@ -1,4 +1,4 @@
-_**Some people claim that it is okay to read trashy novels because sometimes you can find something valuable in them. You can also find a crust of bread in a garbage can, if you search long enough, but there is a better way.**_
+_**If you don't like how things are, change it. You are not a tree.**_
 
 Jim Rohn
 
