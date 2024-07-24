@@ -1,4 +1,4 @@
-_**A weak body makes the spirit weak.**_
+_**Success is something you attract by the person you become.**_
 
 Jim Rohn
 
