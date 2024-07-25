@@ -1,4 +1,5 @@
-_**Success is something you attract by the person you become.**_
+_**Success is neither magical nor mysterious. Success is the natural consequence of consistently applying basic fundamentals
+.**_
 
 Jim Rohn
 
