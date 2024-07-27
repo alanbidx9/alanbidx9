@@ -1,4 +1,4 @@
-_**Success is neither magical nor mysterious. Success is the natural consequence of consistently applying basic fundamentals
+_**Your life does not get better by chance, it gets better by change
 .**_
 
 Jim Rohn
