@@ -1,7 +1,6 @@
-_**Your life does not get better by chance, it gets better by change
-.**_
+_**You only live once, but if you do it right, once is enough. **_
 
-Jim Rohn
+Mae West
 
 
 
