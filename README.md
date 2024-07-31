@@ -1,6 +1,6 @@
-_**You only live once, but if you do it right, once is enough. **_
+_** stay hungry stay foolish **_
 
-Mae West
+Steve Jobs
 
 
 
