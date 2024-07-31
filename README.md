@@ -1,4 +1,4 @@
-_** stay hungry stay foolish **_
+_**stay hungry stay foolish.**_
 
 Steve Jobs
 
