@@ -1,6 +1,6 @@
-_**stay hungry stay foolish.**_
+_**Always Day One.**_
 
-Steve Jobs
+Jeff Bezos
 
 
 
