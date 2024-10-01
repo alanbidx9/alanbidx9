@@ -1,6 +1,6 @@
-_**Always Day One.**_
+_**You only fail when you stop trying.**_
 
-Jeff Bezos
+
 
 
 
