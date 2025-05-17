@@ -1,3 +1,3 @@
-_**Always Day One.**_
+_**Leave a Legacy.**_
 
-Jeff Bezos
+Alan
