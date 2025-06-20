@@ -1,3 +1,3 @@
-_**Because if you don't, who will?.**_
+_**There are people who die at 25 and are not buried until they are 75.**_
 
 
