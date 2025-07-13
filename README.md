@@ -1,3 +1,3 @@
-_**There are people who die at 25 and are not buried until they are 75.**_
+_**“Innovation is saying no to 1,000 things.” – Steve Jobs**_
 
 
